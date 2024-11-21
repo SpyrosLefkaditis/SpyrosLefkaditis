@@ -1,7 +1,11 @@
 
 
-# Hi there 👋
-I’m an Electronic Engineering student with a strong focus on cybersecurity and automation. Currently, I’m honing my skills in Linux bash scripting and Python to develop innovative solutions for security and system management.<br><br>My current projects involve automating tasks and creating security tools, while I am also expanding my knowledge in network security and the latest cybersecurity practices. I’m passionate about combining my technical expertise with creative problem-solving to tackle real-world security challenges.<br><br>I’m eager to collaborate on cybersecurity and automation projects and am always looking for opportunities to learn and grow in this dynamic field. Feel free to connect if you’re interested in discussing Linux systems, automation, or cybersecurity trends!
+##Hi there 👋
+I am a Computer Science major at Goldsmiths, University of London, with a strong focus on cybersecurity and automation. I’m honing my skills in Linux administration, bash scripting, and Python to develop innovative solutions for security and system management.
+
+My current projects involve automating tasks and creating security tools, while expanding my knowledge in network security and the latest cybersecurity practices. I’m passionate about combining my technical expertise with creative problem-solving to tackle real-world security challenges.
+
+I’m eager to collaborate on cybersecurity and automation projects and am always looking for opportunities to learn and grow in this dynamic field. Feel free to connect if you’re interested in discussing Linux systems, automation, or cybersecurity trends!
 
 
 ## 🌐 Socials:
