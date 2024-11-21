@@ -2,14 +2,14 @@
 ## Hi there 👋  
 I am a **Computer Science major** at **Goldsmiths, University of London**, specializing in **cybersecurity**, **automation**, and **Linux system management**. With a strong foundation in **web development** and **network security**, I’m passionate about creating secure, efficient, and scalable systems. From developing secure web applications to conducting penetration tests, I thrive on tackling complex cybersecurity challenges.
 
-My technical expertise spans a wide array of tools and technologies, including **Nmap**, **Wireshark**, **SQLmap**, **XSStrike**, **Wazuh**, **Suricata**, **Metasploit**, **TCPDump**, and many more. Additionally, I’m skilled in web development using **HTML5**, **CSS**, **JavaScript**, **Bootstrap**, and backend technologies like **Python** and **SQL**. I also automate tasks with **Bash** and **Python**, ensuring seamless operations in cybersecurity and web development.
+My technical expertise spans a wide array of tools and technologies, including **Nmap**, **Wireshark**, **SQLmap**, **XSStrike**, **Wazuh**, **Suricata**, **Metasploit**, **TCPDump**, **Shell**, **Django**, and **p5.js**. Additionally, I’m skilled in web development using **HTML5**, **CSS**, **JavaScript**, **Bootstrap**, and backend technologies like **Python** and **SQL**. I also automate tasks with **Bash** and **Python**, ensuring seamless operations in cybersecurity and web development.
 
 ---
 
 ### 🚀 What I’m Working On:  
 - **Cybersecurity Automation:** Developing Python scripts for automated network scans, vulnerability assessments, and visualizing reports in CSV format.  
 - **Penetration Testing & Threat Detection:** Leveraging tools like **Suricata**, **Wazuh**, **Metasploit**, and **Nmap** for vulnerability analysis, network security monitoring, and incident response.  
-- **Full-Stack Web Development:** Building dynamic and responsive web applications using **HTML5**, **CSS**, **JavaScript**, and frameworks like **Bootstrap**, while also integrating secure backend solutions using **Python** and **SQL**.  
+- **Full-Stack Web Development:** Building dynamic and responsive web applications using **HTML5**, **CSS**, **JavaScript**, **Django**, and **p5.js**, while also integrating secure backend solutions using **Python** and **SQL**.  
 - **Research & Cybersecurity Frameworks:** Exploring the latest security protocols and frameworks to stay ahead in the rapidly evolving cybersecurity field.  
 
 I’m deeply committed to combining **technical expertise** with **creative problem-solving** to tackle **real-world security and development challenges**. If you're interested in **network security**, **cybersecurity automation**, **web development**, or **cutting-edge security trends**, feel free to connect!
@@ -33,11 +33,14 @@ I’m deeply committed to combining **technical expertise** with **creative prob
 ![TCPDump](https://img.shields.io/badge/TCPDump-00B5D6.svg?style=flat&logo=gnulinux&logoColor=white)  
 
 ### Web Development & Programming:  
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
+![p5.js](https://img.shields.io/badge/p5.js-%236F1C8F.svg?style=flat&logo=javascript&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
@@ -61,4 +64,3 @@ I’m deeply committed to combining **technical expertise** with **creative prob
 
 ## 💰 You can help me by Donating:  
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SpyrosLefkaditis)  
-
