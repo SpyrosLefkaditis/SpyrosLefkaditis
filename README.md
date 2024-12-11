@@ -18,6 +18,7 @@ With hands-on experience in **penetration testing** and **threat detection**, I 
 ### 💻 Tech Stack:  
 #### Cybersecurity & Network Security Tools:  
 ![Nmap](https://img.shields.io/badge/Nmap-000000.svg?style=flat&logo=nmap&logoColor=white)
+
 ![Metasploit](https://img.shields.io/badge/Metasploit-%2300599C.svg?style=flat&logo=security&logoColor=white)  
 ![XSStrike](https://img.shields.io/badge/XSStrike-000000.svg?style=flat&logo=javascript&logoColor=white)  
 ![SQLmap](https://img.shields.io/badge/sqlmap-%23E34F26.svg?style=flat&logo=sqlite&logoColor=white)  
