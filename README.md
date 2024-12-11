@@ -17,13 +17,14 @@ With hands-on experience in **penetration testing** and **threat detection**, I 
 
 ### 💻 Tech Stack:  
 #### Cybersecurity & Network Security Tools:  
+![Nmap](https://img.shields.io/badge/Nmap-000000.svg?style=flat&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%2300599C.svg?style=flat&logo=security&logoColor=white)  
 ![XSStrike](https://img.shields.io/badge/XSStrike-000000.svg?style=flat&logo=javascript&logoColor=white)  
 ![SQLmap](https://img.shields.io/badge/sqlmap-%23E34F26.svg?style=flat&logo=sqlite&logoColor=white)  
 ![Wazuh](https://img.shields.io/badge/Wazuh-%23000000.svg?style=flat&logo=wazuh&logoColor=white)  
 ![Suricata](https://img.shields.io/badge/Suricata-EE4723.svg?style=flat&logo=security&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/wireshark-1679A7.svg?style=flat&logo=wireshark&logoColor=white)  
-![TCPDump](https://img.shields.io/badge/TCPDump-00B5D6.svg?style=flat&logo=gnulinux&logoColor=white)  
+
 
 #### Linux & Automation:  
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)  
