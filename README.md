@@ -28,13 +28,7 @@ I enjoy building **secure, responsive, and high-performance systems** and web ap
 - Implemented processes that improved troubleshooting efficiency and system monitoring.  
 
 ---
-
-## Projects
-- **ShellRever Toolkit:** Bash script for network diagnostics and system checks.  
-- **Log Processor:** Python tool to analyze logs and detect suspicious activity.  
-- **GitGen:** Automates SSH key generation for GitHub.  
-- **FibroHash:** Python-based password generator using Fibonacci sequences.  
-- **Bash SEO Analyzer:** Command-line tool for automated SEO and security analysis.  
+ 
 
 ---
 
