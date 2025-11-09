@@ -1,11 +1,23 @@
-<!-- Animated Header -->
+<!-- ======================== -->
+<!--          HEADER          -->
+<!-- ======================== -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Spyros+Lefkaditis+%F0%9F%91%8B;DevOps+%26+Cybersecurity+Enthusiast;Technical+Support+%26+Linux+Engineer;Full-Stack+Web+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Spyros+Lefkaditis+%F0%9F%91%8B;DevOps+%26+Cybersecurity+Enthusiast;Technical+Support+%26+Linux+Engineer;Full-Stack+Web+Developer+%26+Tech+Enthusiast" style="filter: drop-shadow(0 0 12px #00FFF0);" alt="Typing SVG" />
 </h1>
 
-<!-- Animated About Me Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Rain and Thunder Animation" width="400"/>
+</p>
+
+---
+
+<!-- ======================== -->
+<!--        ABOUT ME          -->
+<!-- ======================== -->
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=650&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=650&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" style="filter: drop-shadow(0 0 10px #00FFF0);" alt="About Me Animation" />
 </h2>
 
 💡 I specialize in **Linux server management, DevOps, cloud engineering, and cybersecurity**.  
@@ -14,9 +26,12 @@
 
 ---
 
-<!-- Animated Areas of Expertise -->
+<!-- ======================== -->
+<!--   AREAS OF EXPERTISE     -->
+<!-- ======================== -->
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Areas+of+Expertise" alt="Areas of Expertise Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Areas+of+Expertise" style="filter: drop-shadow(0 0 10px #00FFF0);" alt="Areas of Expertise Animation" />
 </h2>
 
 - 🖧 Networking & Linux Administration  
@@ -28,9 +43,12 @@
 
 ---
 
-<!-- Animated Key Achievements -->
+<!-- ======================== -->
+<!--     KEY ACHIEVEMENTS     -->
+<!-- ======================== -->
+
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+Key+Achievements" alt="Key Achievements Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=700&speed=80&color=00FFF0&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+Key+Achievements" style="filter: drop-shadow(0 0 10px #00FFF0);" alt="Key Achievements Animation" />
 </h2>
 
 - ⚙️ Developed **Python and Bash automation tools** for server management and log monitoring.  
@@ -41,6 +59,7 @@
 ---
 
 ## 🧰 Skills & Technologies
+
 ### 💬 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,bash,php,js,html,css,tailwind,bootstrap,flask,git,github,linux,nginx,apache,mysql" />
