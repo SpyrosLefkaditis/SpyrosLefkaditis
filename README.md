@@ -3,14 +3,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFF0&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Spyros+Lefkaditis+%F0%9F%91%8B;DevOps+%26+Cybersecurity+Enthusiast;Technical+Support+%26+Linux+Engineer;Full-Stack+Web+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
+<p align="center">
+  🌐 <a href="https://www.spyroslefkaditis.com" target="_blank">www.spyroslefkaditis.com</a>
+</p>
 
 ---
 
-<!-- Animated About Me Section -->
-
+<!-- ✅ Fixed Animated About Me Section -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00FFF0&center=true&vCenter=true&width=600&lines=👨‍💻+About+Me" alt="About Me Animation" />
+</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00FFF0&center=true&vCenter=true&width=650&lines=Computer+Science+Student+at+University+of+London;Technical+Support+%26+Linux+Engineer;DevOps+%26+Cybersecurity+Specialist;Automation+%26+System+Optimization+Enthusiast;Always+learning+%26+building+secure+systems+⚙️" alt="About Me Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFF0&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Computer+Science+Student+at+University+of+London;Technical+Support+and+Linux+Engineer;DevOps+and+Cybersecurity+Specialist;Automation+and+System+Optimization+Enthusiast;Always+learning+and+building+secure+systems+⚙️" alt="About Me Typing Animation" />
 </p>
 
 💡 I specialize in **Linux server management, DevOps, cloud engineering, and cybersecurity**.  
@@ -21,7 +26,7 @@
 
 <!-- Animated Areas of Expertise -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00FFF0&center=true&vCenter=true&width=650&lines=%E2%9A%99%EF%B8%8F+Areas+of+Expertise" alt="Areas of Expertise Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00FFF0&center=true&vCenter=true&width=650&lines=⚙️+Areas+of+Expertise" alt="Areas of Expertise Animation" />
 </h2>
 
 - 🖧 Networking & Linux Administration  
@@ -35,7 +40,7 @@
 
 <!-- Animated Key Achievements -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00FFF0&center=true&vCenter=true&width=600&lines=%F0%9F%8F%86+Key+Achievements" alt="Key Achievements Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=00FFF0&center=true&vCenter=true&width=600&lines=🏆+Key+Achievements" alt="Key Achievements Animation" />
 </h2>
 
 - ⚙️ Developed **Python and Bash automation tools** for server management and log monitoring.  
