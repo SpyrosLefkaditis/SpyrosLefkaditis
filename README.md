@@ -1,88 +1,175 @@
-<!-- ======================== -->
-<!--          HEADER          -->
-<!-- ======================== -->
+<!-- ============================================================= -->
+<!--  Spyros Lefkaditis · GitHub profile README                    -->
+<!--  Drop this in the special repo SpyrosLefkaditis/SpyrosLefkaditis -->
+<!--  Brand: teal #5EEAD4 / deep teal #0D9488 on GitHub dark #0D1117 -->
+<!-- ============================================================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=0&speed=80&color=00FFF0&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Spyros+Lefkaditis+%F0%9F%91%8B;DevOps+%26+Cybersecurity+Enthusiast;Technical+Support+%26+Linux+Engineer;Full-Stack+Web+Developer+%26+Tech+Enthusiast" style="filter: drop-shadow(0 0 12px #00FFF0);" alt="Typing SVG" />
-</h1>
+<!-- ===================== BANNER ===================== -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:5EEAD4&height=210&section=header&text=Spyros%20Lefkaditis&fontSize=54&fontColor=0a0f1c&fontAlignY=36&desc=AI%20Solutions%20Engineer%20%C2%B7%20Agentic%20Workflows%20%C2%B7%20Linux%20%26%20DevOps&descSize=18&descAlignY=58&animation=fadeIn"
+    alt="Spyros Lefkaditis"
+  />
+</div>
 
----
+<!-- ===================== TYPING ===================== -->
+<div align="center">
+  <a href="https://spyroslefkaditis.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&lines=AI+Solutions+Engineer+%40+AthenaGen+AI;Building+agentic-workflow+applications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP;Author+of+brain-cli+%E2%80%94+20%2B+production+deployments;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
+      alt="What I do"
+      style="filter: drop-shadow(0 0 10px #5EEAD4);"
+    />
+  </a>
+</div>
 
-<!-- ======================== -->
-<!--        ABOUT ME          -->
-<!-- ======================== -->
+<!-- ===================== CHIPS ===================== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Athens-Greece-5EEAD4?style=flat-square&labelColor=0D1117&color=0D9488" alt="Athens, Greece" />
+  <a href="https://spyroslefkaditis.com"><img src="https://img.shields.io/badge/Portfolio-spyroslefkaditis.com-5EEAD4?style=flat-square&logo=googlechrome&logoColor=5EEAD4&labelColor=0D1117" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/spyroslefkaditis"><img src="https://img.shields.io/badge/LinkedIn-in/spyroslefkaditis-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SpyrosLefkaditis&style=flat-square&color=0D9488&label=Profile+views" alt="Profile views" />
+</div>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&speed=80&color=00FFF0&center=true&vCenter=true&width=650&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+About+Me" style="filter: drop-shadow(0 0 10px #00FFF0);" alt="About Me Animation" />
-</h2>
+<br/>
 
-💡 I specialize in **Linux server management, DevOps, cloud engineering, and cybersecurity**.  
-🚀 I love building **secure, scalable, and high-performance systems** and web apps.  
-🔒 My projects merge **programming, networking, and security** to solve real-world challenges.
+<!-- ===================== ABOUT ===================== -->
+## 👋 About me
 
----
+```ts
+const spyros = {
+  role:    "AI Solutions Engineer @ AthenaGen AI",
+  focus:   ["agentic workflows", "RAG", "LLM integration", "deployment automation"],
+  building:"brain-cli — a Python pipeline framework orchestrating topology-driven",
+           // runners that auto-test & deploy the flagship product over WireGuard VPN
+  shipped: "20+ production deployments across enterprise clients (incl. ERP / Softone)",
+  roots:   ["Linux server engineering", "support automation", "frontend"],
+  learning:"BSc Computer Science @ University of London (part-time, alongside work)",
+  motto:   "ship agents that actually do the work — with a human in the loop",
+};
+```
 
-<!-- ======================== -->
-<!--   AREAS OF EXPERTISE     -->
-<!-- ======================== -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&speed=80&color=00FFF0&center=true&vCenter=true&width=700&lines=%E2%9A%99%EF%B8%8F+Areas+of+Expertise" style="filter: drop-shadow(0 0 10px #00FFF0);" alt="Areas of Expertise Animation" />
-</h2>
-
-- 🖧 Networking & Linux Administration  
-- 🛡️ Cybersecurity & Security Protocols  
-- 💻 Programming: `C++`, `Python`, `Bash`, `SQL`, `PHP`, `JavaScript`, `HTML`, `CSS`, `Tailwind CSS`, `Bootstrap`, `p5.js`, `Flask`  
-- 🌍 Web & Server Management  
-- ⚡ Automation & Tool Development  
-- 🤝 Client Support & Knowledge Management  
-
----
-
-<!-- ======================== -->
-<!--     KEY ACHIEVEMENTS     -->
-<!-- ======================== -->
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=0&speed=80&color=00FFF0&center=true&vCenter=true&width=650&lines=%F0%9F%8F%86+Key+Achievements" style="filter: drop-shadow(0 0 10px #00FFF0);" alt="Key Achievements Animation" />
-</h2>
-
-- ⚙️ Developed **Python and Bash automation tools** for server management and log monitoring.  
-- 🌐 Built and deployed **20+ responsive websites** from scratch.  
-- 🔧 Contributed to **custom cybersecurity scripts and dashboards**.  
-- 📊 Implemented **processes that improved troubleshooting efficiency** and system monitoring.  
-
----
-
-## 🧰 Skills & Technologies
-
-### 💬 Languages & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,bash,php,js,html,css,tailwind,bootstrap,flask,git,github,linux,nginx,apache,mysql" />
-</p>
-
-### 🖥️ Systems & Platforms
-**Linux Servers**, **Web & Mail Servers**, **DNS**, **SSL**, **Apache**, **NGINX**, **LiteSpeed**
+I build AI applications end-to-end — React frontends, FastAPI/Flask services, and REST APIs
+for agentic workflows — then engineer the RAG pipelines, vector-DB integrations, and CI/CD
+that take them to production.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spyroslefkaditis&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spyroslefkaditis&theme=tokyonight" height="165" />
-</p>
+<!-- ===================== STACK ===================== -->
+## 🧠 Tech stack
+
+**AI &amp; Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=5EEAD4)
+![LangGraph](https://img.shields.io/badge/LangGraph-0D9488?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-5EEAD4?style=for-the-badge&logoColor=0a0f1c)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-0D1117?style=for-the-badge&logoColor=5EEAD4)
+![MCP](https://img.shields.io/badge/MCP_Servers-0D9488?style=for-the-badge&logoColor=white)
+
+**Languages &amp; Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Infrastructure &amp; DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 
 ---
 
-## 🌐 Let's Connect!
-<p align="center">
-  <a href="https://www.spyroslefkaditis.com"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/spyroslefkaditis"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:info@spyroslefkaditis.com"><img src="https://img.shields.io/badge/Email-00B8D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦈 <a href="https://github.com/SpyrosLefkaditis/MonitShark">MonitShark</a></h3>
+      <p>Self-hosted, <b>AI-native Linux server admin console</b> — live monitoring,
+      security auditing, firewall / cron / user management, and a chat agent that
+      performs host operations <i>with explicit human approval</i>.
+      Built for Synapse Innovation Hack 2026.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/-AI_Agent-5EEAD4?style=flat-square&logoColor=0a0f1c" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://spyroslefkaditis.com">spyroslefkaditis.com</a></h3>
+      <p>Portfolio platform with a built-in <b>AI assistant</b> — a LangGraph agent
+      backed by PostgreSQL that answers questions about my work — plus a Google-Meet
+      appointment scheduler, blog, and digital business card.
+      React + FastAPI, Dockerized behind NGINX.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-LangGraph-0D9488?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=spyroslefkaditis&color=00FFF0&style=flat-square" alt="Profile Views" />
-</p>
+<!-- ===================== STATS ===================== -->
+## 📊 GitHub analytics
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SpyrosLefkaditis&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=c9d1d9&bg_color=0D1117" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosLefkaditis&layout=compact&langs_count=8&hide_border=true&title_color=5EEAD4&text_color=c9d1d9&bg_color=0D1117" alt="top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SpyrosLefkaditis&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0D9488" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpyrosLefkaditis&bg_color=0D1117&color=5EEAD4&line=5EEAD4&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+---
+
+<!-- ===================== LEARN ===================== -->
+## 🎓 Education &amp; certifications
+
+- 🎓 **BSc Computer Science** — University of London *(2024 → present, part-time)*
+- 🛡️ **Google Cybersecurity Professional** · **LFS101: Intro to Linux** (Linux Foundation)
+- 🐧 **Linux Essentials / Unhatched** (Cisco) · **Metasploit · Nmap · Wireshark** (Coursera)
+- ⏳ *In progress:* **LPIC-1** · **CompTIA Network+** · **CS50x**
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Let's connect
+
+<div align="center">
+  <a href="https://spyroslefkaditis.com"><img src="https://img.shields.io/badge/Website-spyroslefkaditis.com-5EEAD4?style=for-the-badge&logo=googlechrome&logoColor=0a0f1c&labelColor=0D9488" alt="Website" /></a>
+  <a href="https://linkedin.com/in/spyroslefkaditis"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:info@spyroslefkaditis.com"><img src="https://img.shields.io/badge/Email-info@spyroslefkaditis.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <i>💬 Ask my portfolio's AI assistant anything about my work → <a href="https://spyroslefkaditis.com">spyroslefkaditis.com</a></i>
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:0D9488&height=120&section=footer" alt="" />
