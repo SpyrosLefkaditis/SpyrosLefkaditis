@@ -4,20 +4,12 @@
 <!--  Brand: teal #5EEAD4 / deep teal #0D9488 on GitHub dark #0D1117 -->
 <!-- ============================================================= -->
 
-<!-- ===================== BANNER ===================== -->
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:5EEAD4&height=210&section=header&text=Spyros%20Lefkaditis&fontSize=54&fontColor=0a0f1c&fontAlignY=36&desc=AI%20Solutions%20Engineer%20%C2%B7%20Agentic%20Workflows%20%C2%B7%20Linux%20%26%20DevOps&descSize=18&descAlignY=58&animation=fadeIn"
-    alt="Spyros Lefkaditis"
-  />
-</div>
-
 <!-- ===================== TYPING ===================== -->
 <div align="center">
   <a href="https://spyroslefkaditis.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&lines=AI+Solutions+Engineer+%40+AthenaGen+AI;Building+agentic-workflow+applications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP;Author+of+brain-cli+%E2%80%94+20%2B+production+deployments;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
-      alt="What I do"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&lines=Spyros+Lefkaditis;AI+Solutions+Engineer;Building+agentic-workflow+applications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP;Author+of+brain-cli+%E2%80%94+20%2B+production+deployments;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
+      alt="Spyros Lefkaditis — AI Solutions Engineer"
       style="filter: drop-shadow(0 0 10px #5EEAD4);"
     />
   </a>
@@ -38,14 +30,14 @@
 
 ```ts
 const spyros = {
-  role:    "AI Solutions Engineer @ AthenaGen AI",
-  focus:   ["agentic workflows", "RAG", "LLM integration", "deployment automation"],
-  building:"brain-cli — a Python pipeline framework orchestrating topology-driven",
-           // runners that auto-test & deploy the flagship product over WireGuard VPN
-  shipped: "20+ production deployments across enterprise clients (incl. ERP / Softone)",
-  roots:   ["Linux server engineering", "support automation", "frontend"],
-  learning:"BSc Computer Science @ University of London (part-time, alongside work)",
-  motto:   "ship agents that actually do the work — with a human in the loop",
+  role:     "AI Solutions Engineer",
+  focus:    ["agentic workflows", "RAG", "LLM integration", "deployment automation"],
+  building: "brain-cli — a Python pipeline framework that orchestrates",
+            // topology-driven runners to auto-test & deploy over a WireGuard VPN
+  shipped:  "20+ production deployments across enterprise environments",
+  roots:    ["Linux server engineering", "support automation", "frontend"],
+  learning: "BSc Computer Science (part-time, alongside full-time work)",
+  motto:    "ship agents that actually do the work — with a human in the loop",
 };
 ```
 
@@ -92,42 +84,6 @@ that take them to production.
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦈 <a href="https://github.com/SpyrosLefkaditis/MonitShark">MonitShark</a></h3>
-      <p>Self-hosted, <b>AI-native Linux server admin console</b> — live monitoring,
-      security auditing, firewall / cron / user management, and a chat agent that
-      performs host operations <i>with explicit human approval</i>.
-      Built for Synapse Innovation Hack 2026.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/-AI_Agent-5EEAD4?style=flat-square&logoColor=0a0f1c" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://spyroslefkaditis.com">spyroslefkaditis.com</a></h3>
-      <p>Portfolio platform with a built-in <b>AI assistant</b> — a LangGraph agent
-      backed by PostgreSQL that answers questions about my work — plus a Google-Meet
-      appointment scheduler, blog, and digital business card.
-      React + FastAPI, Dockerized behind NGINX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-LangGraph-0D9488?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub analytics
 
@@ -146,13 +102,10 @@ that take them to production.
 
 ---
 
-<!-- ===================== LEARN ===================== -->
-## 🎓 Education &amp; certifications
+<!-- ===================== EDUCATION ===================== -->
+## 🎓 Education
 
-- 🎓 **BSc Computer Science** — University of London *(2024 → present, part-time)*
-- 🛡️ **Google Cybersecurity Professional** · **LFS101: Intro to Linux** (Linux Foundation)
-- 🐧 **Linux Essentials / Unhatched** (Cisco) · **Metasploit · Nmap · Wireshark** (Coursera)
-- ⏳ *In progress:* **LPIC-1** · **CompTIA Network+** · **CS50x**
+🎓 **BSc Computer Science** — University of London *(2024 → present, part-time)*
 
 ---
 
@@ -170,6 +123,3 @@ that take them to production.
 <div align="center">
   <i>💬 Ask my portfolio's AI assistant anything about my work → <a href="https://spyroslefkaditis.com">spyroslefkaditis.com</a></i>
 </div>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,100:0D9488&height=120&section=footer" alt="" />
