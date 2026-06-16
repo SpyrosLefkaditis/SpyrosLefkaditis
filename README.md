@@ -121,5 +121,5 @@ that take them to production.
 <br/>
 
 <div align="center">
-  <i>💬 Ask my portfolio's AI assistant anything about my work → <a href="https://spyroslefkaditis.com">spyroslefkaditis.com</a></i>
+  <i>💬 Ask my portfolio's AI assistant anything about my work → <a href="https://spyroslefkaditis.com/chatbot">spyroslefkaditis.com</a></i>
 </div>
