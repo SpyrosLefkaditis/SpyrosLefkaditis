@@ -5,20 +5,20 @@
 <!-- ============================================================= -->
 
 <!-- ===================== TYPING ===================== -->
-<div align="center">
-    <a href="https://spyroslefkaditis.com">
-      <img
-        src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1000&height=60&lines=Spyros+Lefkaditis;AI+Solutions+Engineer;Building+agentic-workflow+appl
-  ications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP;Author+of+brain-cli+%E2%80%94+20%2B+production+deployments;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
-        alt="Spyros Lefkaditis — AI Solutions Engineer"
-        style="filter: drop-shadow(0 0 10px #5EEAD4);"
-      />
-    </a>
-  </div>
 
+<div align="center">
+  <a href="https://spyroslefkaditis.com">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1000&height=60&lines=Spyros+Lefkaditis;AI+Solutions+Engineer;Building+agentic-workflow+applications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP;Author+of+brain-cli+%E2%80%94+20%2B+production+deployments;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
+      alt="Spyros Lefkaditis — AI Solutions Engineer"
+      style="filter: drop-shadow(0 0 10px #5EEAD4);"
+    />
+  </a>
+</div>
 
 
 <!-- ===================== CHIPS ===================== -->
+
 <div align="center">
   <img src="https://img.shields.io/badge/Athens-Greece-5EEAD4?style=flat-square&labelColor=0D1117&color=0D9488" alt="Athens, Greece" />
   <a href="https://spyroslefkaditis.com"><img src="https://img.shields.io/badge/Portfolio-spyroslefkaditis.com-5EEAD4?style=flat-square&logo=googlechrome&logoColor=5EEAD4&labelColor=0D1117" alt="Portfolio" /></a>
@@ -26,9 +26,11 @@
   <img src="https://komarev.com/ghpvc/?username=SpyrosLefkaditis&style=flat-square&color=0D9488&label=Profile+views" alt="Profile views" />
 </div>
 
+
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
+
 ## 👋 About me
 
 ```ts
@@ -51,6 +53,7 @@ that take them to production.
 ---
 
 <!-- ===================== STACK ===================== -->
+
 ## 🧠 Tech stack
 
 **AI &amp; Agents**
@@ -88,6 +91,7 @@ that take them to production.
 ---
 
 <!-- ===================== STATS ===================== -->
+
 ## 📊 GitHub analytics
 
 <div align="center">
@@ -95,17 +99,21 @@ that take them to production.
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyrosLefkaditis&layout=compact&langs_count=8&hide_border=true&title_color=5EEAD4&text_color=c9d1d9&bg_color=0D1117" alt="top languages" />
 </div>
 
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SpyrosLefkaditis&hide_border=true&background=0D1117&ring=5EEAD4&fire=5EEAD4&currStreakLabel=5EEAD4&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=0D9488" alt="streak" />
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SpyrosLefkaditis&bg_color=0D1117&color=5EEAD4&line=5EEAD4&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </div>
 
+
 ---
 
 <!-- ===================== EDUCATION ===================== -->
+
 ## 🎓 Education
 
 🎓 **BSc Computer Science** — University of London *(2024 → present, part-time)*
@@ -113,6 +121,7 @@ that take them to production.
 ---
 
 <!-- ===================== CONNECT ===================== -->
+
 ## 🤝 Let's connect
 
 <div align="center">
@@ -121,8 +130,10 @@ that take them to production.
   <a href="mailto:info@spyroslefkaditis.com"><img src="https://img.shields.io/badge/Email-info@spyroslefkaditis.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
+
 <br/>
 
 <div align="center">
-  <i>💬 Ask my portfolio's AI assistant anything about my work → <a href="https://spyroslefkaditis.com/chatbot">spyroslefkaditis.com</a></i>
+  <i>💬 Ask my portfolio's AI assistant anything about my work → <a href="https://spyroslefkaditis.com">spyroslefkaditis.com</a></i>
 </div>
+
