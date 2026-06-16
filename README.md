@@ -5,7 +5,7 @@
 <!-- ============================================================= -->
 
 <!-- ===================== TYPING ===================== -->
- <div align="center">
+<div align="center">
     <a href="https://spyroslefkaditis.com">
       <img
         src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1000&height=60&lines=Spyros+Lefkaditis;AI+Solutions+Engineer;Building+agentic-workflow+appl
@@ -15,6 +15,7 @@
       />
     </a>
   </div>
+
 
 
 <!-- ===================== CHIPS ===================== -->
