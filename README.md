@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://spyroslefkaditis.com">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1000&height=60&lines=Spyros+Lefkaditis;AI+Solutions+Engineer;Building+agentic-workflow+applications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP+%E2%80%94+20%2B+production+deployments;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&pause=1000&color=5EEAD4&center=true&vCenter=true&width=1000&height=60&lines=Spyros+Lefkaditis;AI+Solutions+Engineer;Building+agentic-workflow+applications;RAG+pipelines+%C2%B7+LangGraph+%C2%B7+Vector+DBs+%C2%B7+MCP;Linux+%C2%B7+Docker+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TypeScript"
       alt="Spyros Lefkaditis — AI Solutions Engineer"
       style="filter: drop-shadow(0 0 10px #5EEAD4);"
     />
